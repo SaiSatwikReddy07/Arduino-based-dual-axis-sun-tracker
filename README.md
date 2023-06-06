@@ -7,7 +7,9 @@ TinkerCad Circuit:
 ![tinkerCAD_circuit](https://github.com/SaiSatwikReddy07/Arduino-based-dual-axis-sun-tracker/assets/109800395/33b74bba-4c40-410a-92c5-843d3d58a42e)
 
 The below video is the working of the sun tracker:
-[![Video Title](http://img.youtube.com/vi/nhwrUl8UUwY/0.jpg)](http://www.youtube.com/watch?v=nhwrUl8UUwY "The working video")
+
+
+[![YouTube Video](http://img.youtube.com/vi/nhwrUl8UUwY/0.jpg)](https://www.youtube.com/watch?v=nhwrUl8UUwY)
 
 
 https://youtu.be/nhwrUl8UUwY
