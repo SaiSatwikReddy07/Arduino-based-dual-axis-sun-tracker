@@ -4,7 +4,6 @@ Made this as a hardware project at the end of the first year of B.Tech. This Ard
 All the codes were written in Arduino IDE.
 
 ## Hardware Components
-----
 1.  ARDUINO UNO
 2.  Voltage Regulator
 3.  Solar Panel
@@ -23,13 +22,10 @@ All the codes were written in Arduino IDE.
 16. PHOTOVOLTAIC CELLS/SOLAR CELLS
 
 ## TinkerCad Circuit
-----
 ![tinkerCAD_circuit](https://github.com/SaiSatwikReddy07/Arduino-based-dual-axis-sun-tracker/assets/109800395/33b74bba-4c40-410a-92c5-843d3d58a42e)
 
 
 ## Demonstration Video
-----
-
 The below video is the working of the sun tracker:
 
 [![YouTube Video](http://img.youtube.com/vi/nhwrUl8UUwY/0.jpg)](https://www.youtube.com/watch?v=nhwrUl8UUwY)
