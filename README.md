@@ -1,7 +1,8 @@
 # Arduino-based-dual-axis-sun-tracker
 Made this as a hardware project at the end of the first year of B.Tech. This Arduino-based hardware setup can sense temperature, humidity, &amp; rainfall in addition to its major feature which is tracking solar energy.
 
-All the codes were written in Arduino IDE.
+## Software Components
+1. Arduino IDE
 
 ## Hardware Components
 1.  ARDUINO UNO
